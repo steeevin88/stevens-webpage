@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/stevens-webpage/static/css/main.49e37a6c.css",
-    "main.js": "/stevens-webpage/static/js/main.db1242ab.js",
-    "static/media/logo.png": "/stevens-webpage/static/media/logo.1790d8d05302be7335fd.png",
-    "index.html": "/stevens-webpage/index.html",
-    "main.49e37a6c.css.map": "/stevens-webpage/static/css/main.49e37a6c.css.map",
-    "main.db1242ab.js.map": "/stevens-webpage/static/js/main.db1242ab.js.map"
+    "main.css": "/steeevin88.github.io/static/css/main.e421ec05.css",
+    "main.js": "/steeevin88.github.io/static/js/main.c4a2ba9f.js",
+    "static/media/logo.png": "/steeevin88.github.io/static/media/logo.1790d8d05302be7335fd.png",
+    "index.html": "/steeevin88.github.io/index.html",
+    "main.e421ec05.css.map": "/steeevin88.github.io/static/css/main.e421ec05.css.map",
+    "main.c4a2ba9f.js.map": "/steeevin88.github.io/static/js/main.c4a2ba9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e37a6c.css",
-    "static/js/main.db1242ab.js"
+    "static/css/main.e421ec05.css",
+    "static/js/main.c4a2ba9f.js"
   ]
 }
